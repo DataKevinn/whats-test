@@ -1,4 +1,3 @@
-Aqui está um README pronto para copiar e colar:  
 
 ```md
 # 📞 WhatsApp Number Checker
@@ -45,6 +44,5 @@ Este script é apenas para fins educacionais. O uso indevido pode violar os Term
 ---
 
 💡 **Dúvidas ou sugestões?** Fique à vontade para contribuir! 🚀
-```
 
 Se quiser algo mais customizado, me avise! 😊
