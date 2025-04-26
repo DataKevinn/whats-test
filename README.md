@@ -1,5 +1,4 @@
 
-```md
 # 📞 WhatsApp Number Checker
 
 Um script automatizado usando Selenium para testar números de telefone no WhatsApp Web e classificar como **válidos** ou **inválidos**.
